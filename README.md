@@ -14,3 +14,13 @@ Needed packages:
 - [ts-node-dev](https://github.com/wclr/ts-node-dev)
 
 `npm i -D typescript @types/node ts-node-dev`
+
+### Eslint
+
+Needed packages:
+
+- [eslint](https://eslint.org/)
+- [@typescript-eslint/eslint-plugin](https://typescript-eslint.io/)
+- [@typescript-eslint/parser](https://typescript-eslint.io/)
+
+`npm i -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser`
