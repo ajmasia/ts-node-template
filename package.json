@@ -1,0 +1,13 @@
+{
+  "name": "ts-node",
+  "version": "1.0.0",
+  "description": "Startup template for node.js projects using typescript",
+  "scripts": {},
+  "keywords": [
+    "node",
+    "typescript",
+    "template"
+  ],
+  "author": "Antonio José Masiá <email@antoniomasia.com>",
+  "license": "MIT"
+}
