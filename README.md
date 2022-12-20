@@ -12,6 +12,7 @@
 | `npm run build` | Build project |
 | `npm run lint` | Run linter |
 | `npm run lint:fix` | Fix linter errors |
+| `npm run post:install` | Install pre-commit git hook |
 
 ## Initial settings
 
