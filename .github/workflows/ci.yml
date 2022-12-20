@@ -25,5 +25,5 @@ jobs:
       - name: 📥 Install dependencies
         run: npm install
 
-      - name: 💅 Lint code style
+      - name: 💅 Lint code
         run: npm run lint
