@@ -1,7 +1,17 @@
 # Typescript Node template
-Startup [Node.js](https://nodejs.org/en/) with [TypeScript](https://www.typescriptlang.org/) project template.
+[Node.js](https://nodejs.org/en/) with [TypeScript](https://www.typescriptlang.org/) project startup template.
 
 ----
+
+## Playground
+
+| Command | Description |
+| ------- | ----------- |
+| `npm start` | Compile and start project |
+| `npm run dev` | Start project in dev mode |
+| `npm run build` | Build project |
+| `npm run lint` | Run linter |
+| `npm run lint:fix` | Fix linter errors |
 
 ## Initial settings
 
@@ -34,3 +44,11 @@ Needed packages:
 - [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
 
 `npm i -D prettier eslint-config-prettier eslint-plugin-prettier`
+
+## Todo
+
+- [ ] Implement environment global vars
+- [ ] Add `nix-shell` configuration
+- [ ] Improve eslint rules
+- [ ] Improve template scrips
+- [ ] Add testing settings
