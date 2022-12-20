@@ -1,1 +1,1 @@
-console.log('App template running ...');
+console.log('App running ...');
