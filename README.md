@@ -24,3 +24,13 @@ Needed packages:
 - [@typescript-eslint/parser](https://typescript-eslint.io/)
 
 `npm i -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser`
+
+### Prettier
+
+Needed packages:
+
+- [prettier](https://prettier.io/)
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+- [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
+
+`npm i -D prettier eslint-config-prettier eslint-plugin-prettier`
