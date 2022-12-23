@@ -1,5 +1,5 @@
 {
-  "name": "ts-node",
+  "name": "ts-node-template",
   "version": "1.0.0",
   "description": "Startup template for node.js projects using typescript",
   "scripts": {
